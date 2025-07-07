@@ -76,3 +76,10 @@ python manage.py runserver
 
 Open your browser and go to:  
 [http://localhost:8000](http://localhost:8000)
+
+---
+
+## 🙋‍♂️ Author
+
+**Subarno Chakraborty**  
+[GitHub](https://github.com/Kutan-Fuiton) • [LinkedIn](https://linkedin.com/in/subarno-chakraborty)
