@@ -79,12 +79,6 @@ Open your browser and go to:
 
 ---
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🙋‍♂️ Author
 
 **Subarno Chakraborty**  
